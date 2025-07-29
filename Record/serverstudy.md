@@ -19,3 +19,6 @@ https://github.com/jacking75/NewbieGameServerProgrammerLearningMaterials
 
 https://www.youtube.com/watch?v=OPmSQCfzl1Q&list=PLtUgHNmvcs6rS5aNCRIZtVcyk3gRX2iOd
 
+# 네트워크 
+
+https://www.youtube.com/watch?v=c62qssA4hYI&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM
