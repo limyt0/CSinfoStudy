@@ -26,3 +26,11 @@ https://www.youtube.com/watch?v=c62qssA4hYI&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2
 # 운영체제
 
 https://www.youtube.com/watch?v=zGBm37kze9I&list=PLHqxB9kMLLaOs2BM2KbuvttBYCgDoFm-5
+
+# 컴퓨터구조 + 운영체제
+
+https://www.youtube.com/watch?v=bls_GjX-4U8&list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl
+
+# 넓고 얕게 배우는 컴퓨터 구조, 자료구조와 알고리즘, 프로그래밍, 운영체제
+
+https://www.youtube.com/watch?v=ucBfQGpNjPo&list=PLXvgR_grOs1BQCziQ_MpM877BdBxwbMzA
