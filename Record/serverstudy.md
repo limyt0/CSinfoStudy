@@ -22,3 +22,7 @@ https://www.youtube.com/watch?v=OPmSQCfzl1Q&list=PLtUgHNmvcs6rS5aNCRIZtVcyk3gRX2
 # 네트워크 
 
 https://www.youtube.com/watch?v=c62qssA4hYI&list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM
+
+# 운영체제
+
+https://www.youtube.com/watch?v=zGBm37kze9I&list=PLHqxB9kMLLaOs2BM2KbuvttBYCgDoFm-5
